@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://database-migrations-are-critical-forgett-3t9t8f2ys.vercel.app/sitemap.xml
